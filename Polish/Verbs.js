@@ -1,26 +1,26 @@
 /*
 
 * Wchodzić              - girmek
-* Wstępować             - giriş yapmak
-* Zachodzić             - girmek, girmeye yaklaşmak
-* Przechodzić           - geçmek, girmek
+* Wstępować             - giriş yapmak, katilmak
 * Wchodzić do           - -e girmek (bir yere)
 
 * Wychodzić             - çıkmak
 * Wyjść                 - çıkmak, gitmek (tamamlanmış eylem)
 * Opuszczać             - terk etmek, çıkmak
-* Znikać                - kaybolmak, çıkmak (bir yerden)
-* Wynikać               - sonuçlanmak, çıkmak (bir durumdan)
+
+* Przejśc               - gecmek
+* Przechodzić           - gecmek
+* Mijać                 - (yanindan) gecmek
+* Zostać zaliczonym     - (sinavi) gecmek
+* Przekroczyć           - asmak, gecmek
 
 * Iść                   - gitmek
 * Chodzić               - yürümek, gitmek (düzenli olarak)
-* Odchodzić             - ayrılmak, gitmek
 * Podróżować            - seyahat etmek, gitmek
 
 * Przyjść               - gelmek
 * Nadchodzić            - yaklaşmak, gelmek
 * Przybywać             - varmak, gelmek
-* Zjawiać się           - ortaya çıkmak, gelmek
 
 * Pojawić się           - belirmek, ortaya çıkmak
 * Ukazać się            - görünmek, ortaya çıkmak
@@ -39,7 +39,17 @@
 * Udzielać              - vermek, sağlamak
 * Oddać                 - geri vermek, vermek
 * Zafundować            - hediye etmek, sunmak
-* złożyć            - vermek, teslim etmek
+* złożyć                - vermek, teslim etmek
+
+* Uczestniczyć          - katilmak
+* Brać udział           - yeralmak, katilmak
+* Dołączyć              - katilmak
+* Zgłaszać się          - katilmak
+* Wstępować             - katilmak
+
+* Rozchodzić się        - dagilmak, ayrilmak
+* Odejść                - ayrilmak (ortamdan)
+* Rozstać się           - ayrilmak (kisiden) 
 
 * Zapewniać             - sağlamak
 * Dostarczać            - tedarik etmek, sağlamak
