@@ -50,71 +50,77 @@
 * wybrać                – seçmek
 * przychodzić           – gelmek
 * wychodzić             – dışarı çıkmak
-* przyjeżdżać           – varmak
+* przyjeżdżać           – varmak, gelmek (araç)
 * wstać                 – kalkmak
 
-położyć – koymak
-wierzyć – inanmak
-znać – tanımak
-liczyć – saymak
-budować – inşa etmek
-zmieniać – değiştirmek
-zamawiać – sipariş vermek
-robić zakupy – alışveriş yapmak
-naprawiać – tamir etmek
-zaczynać – başlamak
-kończyć – bitirmek
-zapraszać – davet etmek
-czekać – beklemek
-dzwonić – telefon etmek, aramak
-śpiewać – şarkı söylemek
-gotować – yemek pişirmek
-bawić się – eğlenmek, oynamak
-pływać – yüzmek
-prowadzić – sürmek (araç)
-uśmiechać się – gülümsemek
-płakać – ağlamak
-bić – dövmek
-palić – sigara içmek
-malować – boyamak
-podróżować – seyahat etmek
-używać – kullanmak
-mówić – söylemek
-powtarzać – tekrar etmek
-biegać – koşmak
-dotykać – dokunmak
-kłaść – koymak
-kłamać – yalan söylemek
-grać – oynamak, müzik aleti çalmak
-chodzić – yürümek
-nosić – taşımak, giymek
-spotykać – buluşmak
-trzymać – tutmak
-ciągnąć – çekmek
-pchać – itmek
-uciekać – kaçmak
-skakać – zıplamak
-krzyczeć – bağırmak
-patrzeć – bakmak
-szanować – saygı duymak
-rysować – çizmek
-wyjaśniać – açıklamak
-zwiedzać – ziyaret etmek
-podnosić – kaldırmak
-opowiadać – anlatmak
-przynosić – getirmek
-pomagać – yardım etmek
-radzić – tavsiye vermek
-rozmawiać – konuşmak
-wąchać – koklamak
-obserwować – gözlemlemek
-odpoczywać – dinlenmek
-dziękować – teşekkür etmek
-zmywać – bulaşık yıkamak
-prasować – ütü yapmak
-bać się – korkmak
-spóźniać się – gecikmek
-martwić się – endişelenmek
+* położyć               – koymak
+* wierzyć               – inanmak
+* znać                  – tanımak, bilmek
+* liczyć                – saymak
+* budować               – inşa etmek
+* zmieniać              – değiştirmek
+* zamawiać              – sipariş vermek
+* robić zakupy          – alışveriş yapmak
+* naprawiać             – tamir etmek
+
+* zaczynać              – başlamak
+* kończyć               – bitirmek
+* zapraszać             – davet etmek
+* czekać                – beklemek
+* dzwonić               – telefon etmek, aramak
+* śpiewać               – şarkı söylemek
+* gotować               – yemek pişirmek
+* bawić się             – eğlenmek, oynamak
+* pływać                – yüzmek
+* prowadzić             – sürmek (araç)
+
+* uśmiechać się         – gülümsemek
+* płakać                – ağlamak
+* bić                   – dövmek
+* palić                 – sigara içmek
+* malować               – boyamak
+* podróżować            – seyahat etmek
+* używać                – kullanmak
+* mówić                 – söylemek
+* powtarzać             – tekrar etmek
+* biegać                – koşmak
+
+* dotykać               – dokunmak
+* kłaść                 – koymak
+* kłamać                – yalan söylemek
+* grać                  – oynamak, müzik aleti çalmak
+* nosić                 – taşımak, giymek
+* spotykać              – buluşmak
+* trzymać               – tutmak
+* ciągnąć               – çekmek
+* pchać                 – itmek
+* uciekać               – kaçmak
+
+* skakać                – zıplamak
+* krzyczeć              – bağırmak
+* szanować              – saygı duymak
+* rysować               – çizmek
+* wyjaśniać             – açıklamak
+* zwiedzać              – ziyaret etmek
+* podnosić              – kaldırmak
+* opowiadać             – anlatmak
+* przynosić             – getirmek
+* pomagać               – yardım etmek
+
+* radzić                – tavsiye vermek
+* rozmawiać             – konuşmak
+* wąchać                – koklamak
+* obserwować            – gözlemlemek
+* dziękować             – teşekkür etmek
+* zmywać                – bulaşık yıkamak
+* prasować              – ütü yapmak
+* bać się               – korkmak
+* spóźniać się          – gecikmek
+* martwić się           – endişelenmek
+
+
+
+
 kołysać – sallamak
 podawać – vermek, iletmek
 wysyłać – göndermek
@@ -258,7 +264,6 @@ poruszać – hareket ettirmek
 wzywać – çağırmak
 żądać – talep etmek
 zaniedbywać – ihmal etmek
-odpoczywać – dinlenmek
 trwać – devam etmek
 pchać – itmek
 ciągnąć – çekmek
