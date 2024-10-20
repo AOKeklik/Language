@@ -1,5 +1,13 @@
 /*
 
+* poświęcony                - adanmis, ithaf edilmis
+* opis                      - aciklama
+* Zależy                    - bagli, onemli
+* stosować                  - uygulamak, kullanmak
+* zawierać                  - icermek
+* Substancja                - madde
+* Zwrócić się               - basvurmak
+* oznaczyć                  - isaretlemek
 * padać                     - dusmek, yagmak
 * spadać                    - düşmek
 * Podmienić                 - degistirmek, yerine koymak
