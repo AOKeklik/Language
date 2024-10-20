@@ -1,36 +1,39 @@
 /*
 
 
-be – olmak
-have – sahip olmak
-do – yapmak
-say – söylemek
-get – almak
-make – yapmak
-go – gitmek
-know – bilmek
-take – almak
-see – görmek
-come – gelmek
-think – düşünmek
-look – bakmak
-want – istemek
-give – vermek
-use – kullanmak
-find – bulmak
-tell – anlatmak
-ask – sormak
-work – çalışmak
-seem – görünmek
-feel – hissetmek
-try – denemek
-leave – ayrılmak
-call – aramak
-keep – tutmak
-let – izin vermek
-begin – başlamak
-help – yardım etmek
-talk – konuşmak
+* be                        – olmak
+* have                      – sahip olmak
+* do                        – yapmak
+* say                       – söylemek
+* get                       – almak
+* make                      – yapmak
+* go                        – gitmek
+* know                      – bilmek
+* take                      – almak
+* see                       – görmek
+
+* come                      – gelmek
+* think                     – düşünmek
+* look                      – bakmak
+* want                      – istemek
+* give                      – vermek
+* use                       – kullanmak
+* find                      – bulmak
+* tell                      – anlatmak
+* ask                       – sormak
+* work                      – çalışmak
+
+* seem                      – görünmek
+* feel                      – hissetmek
+* try                       – denemek
+* leave                     – ayrılmak
+* call                      – aramak
+* keep                      – tutmak
+* let                       – izin vermek
+* begin                     – başlamak
+* help                      – yardım etmek
+* talk                      – konuşmak
+
 turn – dönmek
 start – başlamak
 show – göstermek
