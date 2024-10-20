@@ -22,75 +22,76 @@
 * miękki                    – yumuşak
 * twardy                    – sert
 
-* prosty                    – basit
-* skomplikowany             – karmaşık
-* szczęśliwy                - mutlu
-* smutny                    – üzgün
-* bogaty                    – zengin
-* biedny                    – fakir
 * czysty                    – temiz
 * brudny                    – kirli
-* gruby                     – şişman
-* chudy                     – zayıf
-
-* zdrowy                    – sağlıklı
-* chory                     – hasta
 * pełny                     – dolu
 * pusty                     – boş
-* cichy                     – sessiz
-* głośny                    – gürültülü
-* trudny                    – zor
-* łatwy                     – kolay
-* drogi                     – pahalı
-* tani                      – ucuz
-
 * szeroki                   – geniş
 * wąski                     – dar
 * silny                     – güçlü
 * słaby                     – zayıf
-* wypoczęty                 - dinlenmis
+* wypoczęty                 – dinlenmis
 * zmęczony                  – yorgun
+
+* zdrowy                    – sağlıklı
+* chory                     – hasta
+* bogaty                    – zengin
+* biedny                    – fakir
+* trudny                    – zor
+* łatwy                     – kolay
+* drogi                     – pahalı
+* tani                      – ucuz
+* cichy                     – sessiz
+* głośny                    – gürültülü
+
+* prosty                    – basit
+* skomplikowany             – karmaşık
+* mądry                     – akıllı
+* głupi                     – aptal
+* spokojny                  – sakin
+* nerwowy                   – sinirli
+* odważny                   – cesur
+* tchórzliwy                – korkak
+* wygodne                   – rahat
+* niewygodne                – rahatsiz
+
+* zaskoczony                – şaşkın
+* poważny                   – ciddi
+* śmieszny                  – komik
+* szczęśliwy                - mutlu
+* smutny                    – üzgün
+* gruby                     – şişman
+* chudy                     – zayıf
 * wesoły                    – neşeli
 * zły                       – kızgın
-* śmieszny                  – komik
-* poważny                   – ciddi
+* młody                     – genç
+* stary                     – yaşlı
 
-wygodne - rahat
-niewygodne - rahatsiz
-zaskoczony – şaşkın
-spokojny – sakin
-nerwowy – sinirli
-mądry – akıllı
-głupi – aptal
-odważny – cesur
-tchórzliwy – korkak
-młody – genç
-stary – yaşlı
-niski – kısa (boy)
-wysoki – uzun (boy)
-miły – nazik
-niemiły – kaba
-sympatyczny – sempatik
-ambitny – hırslı
-leniwy – tembel
-pracowity – çalışkan
-zdolny – yetenekli
-wykształcony – eğitimli
-inteligentny – zeki
-głupi – aptal
-ciekawy – ilginç
-nudny – sıkıcı
-popularny – popüler
-znany – tanınmış
-anonimowy – anonim
-wyjątkowy – benzersiz
-przeciętny – sıradan
-wyjątkowy – olağanüstü
-normalny – normal
-ważny – önemli
-nieważny – önemsiz
-słodki – tatlı
-kwaśny – ekşi
+* niski                     – kısa (boy)
+* wysoki                    – uzun (boy)
+* miły                      – nazik
+* niemiły                   – kaba
+* sympatyczny               – sempatik
+* ambitny                   – hırslı
+* leniwy                    – tembel
+* pracowity                 – çalışkan
+* zdolny                    – yetenekli
+* wykształcony              – eğitimli
+* inteligentny              – zeki
+
+* ciekawy                   – ilginç
+* nudny                     – sıkıcı
+* popularny                 – popüler
+* znany                     – tanınmış
+* anonimowy                 – anonim
+* wyjątkowy                 – benzersiz, olağanüstü
+* przeciętny                – sıradan
+* normalny                  – normal
+* ważny                     – önemli
+* nieważny                  – önemsiz
+* słodki                    – tatlı
+* kwaśny                    – ekşi
+
 gorzki – acı
 słony – tuzlu
 świeży – taze
@@ -99,8 +100,6 @@ pyszny – lezzetli
 obrzydliwy – iğrenç
 mokry – ıslak
 suchy – kuru
-wysoki – yüksek
-niski – alçak
 niebezpieczny – tehlikeli
 bezpieczny – güvenli
 prawdziwy – gerçek

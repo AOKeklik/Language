@@ -1,48 +1,59 @@
 /*
 
 
-bardzo – çok
-dobrze – iyi
-źle – kötü
-tutaj – burada
-tam – orada
-teraz – şimdi
-potem – sonra
-zawsze – her zaman
-nigdy – asla
-często – sık sık
-rzadko – nadiren
-szybko – hızlıca
-wolno – yavaşça
-rano – sabah
-wieczorem – akşam
-dzisiaj – bugün
-jutro – yarın
-wczoraj – dün
-zaraz – hemen
-już – zaten
-jeszcze – hala
-długo – uzun süre
-krótko – kısa süre
-głośno – yüksek sesle
-cicho – sessizce
-wysoko – yüksek
-nisko – alçak
-blisko – yakın
-daleko – uzak
-razem – birlikte
-osobno – ayrı
-łatwo – kolayca
-trudno – zor
-wcześnie – erken
-późno – geç
-prosto – düz
-w prawo – sağa
-w lewo – sola
-na prawo – sağda
-na lewo – solda
-z przodu – önde
-z tyłu – arkada
+* bardzo                        – çok
+* mało                          - az
+* niezbyt                       - pekdegil
+* dobrze                        – iyi
+* źle                           – kötü
+* tutaj                         – burada
+* tam                           – orada
+* teraz                         – şimdi
+* potem                         – sonra
+* zawsze                        – her zaman
+* nigdy                         – asla
+
+* często                        – sık sık
+* rzadko                        – nadiren
+* szybko                        – hızlıca
+* wolno                         – yavaşça
+* rano                          – sabah
+* wieczorem                     – akşam
+* dzisiaj                       – bugün
+* jutro                         – yarın
+* wczoraj                       – dün
+* zaraz                         – hemen
+* już                           – zaten
+* jeszcze                       – hala
+
+* długo                         – uzun süre
+* krótko                        – kısa süre
+* głośno                        – yüksek sesle
+* cicho                         – sessizce
+* wysoko                        – yüksek
+* nisko                         – alçak
+* blisko                        – yakın
+* daleko                        – uzak
+* razem                         – birlikte
+* osobno                        – ayrı
+
+* łatwo                         – kolayca
+* trudno                        – zor
+* wcześnie                      – erken
+* późno                         – geç
+* prosto                        – düz
+* w prawo                       – sağa
+* w lewo                        – sola
+* na prawo                      – sağda
+* na lewo                       – solda
+* z przodu                      – önde
+* z tyłu                        – arkada
+
+
+
+
+
+
 po lewej – sol tarafta
 po prawej – sağ tarafta
 przedtem – önceden

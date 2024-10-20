@@ -1,15 +1,16 @@
 /*
 
-miłość – sevgi
-szczęście – mutluluk
-smutek – üzüntü
-gniew – öfke
-strach – korku
-cierpienie – acı
-zazdrość – kıskançlık
-złość – kızgınlık
-nienawiść – nefret
-zmęczenie – yorgunluk
+* miłość                    – sevgi
+* szczęście                 – mutluluk
+* smutek                    – üzüntü
+* gniew                     – öfke
+* strach                    – korku
+* cierpienie                – acı
+* zazdrość                  – kıskançlık
+* złość                     – kızgınlık
+* nienawiść                 – nefret
+* zmęczenie                 – yorgunluk
+
 spokój – huzur
 niecierpliwość – sabırsızlık
 radość – sevinç
