@@ -1,55 +1,62 @@
 /*
 
-dobry – iyi
-zły – kötü
-duży – büyük
-mały – küçük
-nowy – yeni
-stary – eski
-piękny – güzel
-brzydki – çirkin
-szybki – hızlı
-wolny – yavaş, serbest
-długi – uzun
-krótki – kısa
-ciężki – ağır
-lekki – hafif
-gorący – sıcak
-zimny – soğuk
-ciemny – karanlık
-jasny – aydınlık
-miękki – yumuşak
-twardy – sert
-prosty – basit
-skomplikowany – karmaşık
-szczęśliwy – mutlu
-smutny – üzgün
-bogaty – zengin
-biedny – fakir
-czysty – temiz
-brudny – kirli
-gruby – şişman
-chudy – zayıf
-zdrowy – sağlıklı
-chory – hasta
-pełny – dolu
-pusty – boş
-cichy – sessiz
-głośny – gürültülü
-trudny – zor
-łatwy – kolay
-drogi – pahalı
-tani – ucuz
-szeroki – geniş
-wąski – dar
-silny – güçlü
-słaby – zayıf
-dobry – iyi
-zmęczony – yorgun
-wesoły – neşeli
-zły – kızgın
-śmieszny – komik
-poważny – ciddi
+* dobry                     – iyi
+* zły                       – kötü
+* duży                      – büyük
+* mały                      – küçük
+* nowy                      – yeni
+* stary                     – eski
+* piękny                    – güzel
+* brzydki                   – çirkin
+* szybki                    – hızlı
+* wolny                     – yavaş, serbest
+
+* długi                     – uzun
+* krótki                    – kısa
+* ciężki                    – ağır
+* lekki                     – hafif
+* gorący                    – sıcak
+* zimny                     – soğuk
+* ciemny                    – karanlık
+* jasny                     – aydınlık
+* miękki                    – yumuşak
+* twardy                    – sert
+
+* prosty                    – basit
+* skomplikowany             – karmaşık
+* szczęśliwy                - mutlu
+* smutny                    – üzgün
+* bogaty                    – zengin
+* biedny                    – fakir
+* czysty                    – temiz
+* brudny                    – kirli
+* gruby                     – şişman
+* chudy                     – zayıf
+
+* zdrowy                    – sağlıklı
+* chory                     – hasta
+* pełny                     – dolu
+* pusty                     – boş
+* cichy                     – sessiz
+* głośny                    – gürültülü
+* trudny                    – zor
+* łatwy                     – kolay
+* drogi                     – pahalı
+* tani                      – ucuz
+
+* szeroki                   – geniş
+* wąski                     – dar
+* silny                     – güçlü
+* słaby                     – zayıf
+* wypoczęty                 - dinlenmis
+* zmęczony                  – yorgun
+* wesoły                    – neşeli
+* zły                       – kızgın
+* śmieszny                  – komik
+* poważny                   – ciddi
+
+wygodne - rahat
+niewygodne - rahatsiz
 zaskoczony – şaşkın
 spokojny – sakin
 nerwowy – sinirli
