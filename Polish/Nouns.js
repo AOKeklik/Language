@@ -1,108 +1,181 @@
 /* 
 
 
-* człowiek              – insan
-* czas                  – zaman
-* rok                   – yıl
-* życie                 – hayat
-* dzień                 – gün
-* rzecz                 – şey
-* sposób                – yol, yöntem
-* miejsce               – yer
-* członek               – üye
-* praca                 – iş
+* ręka                          - kol
+* noga                          - bacak
+* palec                         - parmak
+* ucho                          - kulak
+* nos                           - burun
+* oko                           - göz
+* brzuch                        - karın
+* serce                         - kalp
+* głowa                         - baş
+* bark                          - omuz
+* łokieć                        - dirsek
 
-* myśl                  – düşünce
-* informacja            – bilgi
-* rodzina               – aile
-* dziecko               – çocuk
-* sprawa                – mesele
-* temat                 – konu
-* idea                  – fikir
-* fakt                  – gerçek
-* program               – program
-* pytanie               – soru
+* kolano                        - diz
+* stóp                          - ayak
+* nadgarstek                    - bilek
+* płuca                         - akciğer
+* wątroba                       - karaciğer
+* żołądek                       - mide
+* jelito cienkie                - ince bağırsak
+* jelito grube                  - kalın bağırsak
+* nerka                         - böbrek
+* trzustka                      - pankreas
+* mózg                          - beyin
 
-* odpowiedź             – cevap
-* problem               – problem
-* system                – sistem
-* kraj                  – ülke
-* szkoła                – okul
-* miasto                – şehir
-* historia              – tarih
-* życie                 – yaşam
-* język                 – dil
-* sytuacja              – durum
+* rodzina                       – aile
+* człowiek                      – insan
+* Matka                         - Anne
+* Ojciec                        - Baba
+* Rodzice                       - Ebeveynler
+* Syn                           - Oğul
+* Córka                         - Kız evlat
+* Brat                          - Erkek kardeş
+* Siostra                       - Kız kardeş
+* Dziadek                       - Dede
 
-* plan                  – plan
-* wynik                 – sonuç
-* naród                 – millet
-* rodzaj                – tür
-* kolega                – arkadaş
-* uczelnia              – üniversite
-* zdarzenie             – olay
-* wydarzenie            - ektinlik
-* forma                 – şekil
-* władza                – güç
+* Babcia                        - Büyükanne
+* Wnuk                          - Erkek torun
+* Wnuczka                       - Kız torun
+* Wujek                         - Amca/Dayı
+* Ciocia                        - Hala/Teyze
+* Kuzyn                         - Erkek kuzen
+* Kuzynka                       - Kız kuzen
+* Mąż                           - Koca
+* Żona                          - Eş/Karı
+* Teść                          - Kayınpeder
 
-* decyzja               – karar
-* rynek                 – pazar, piyasa
-* sposób                – tarz
-* problem               – sorun
-* środowisko            – çevre
-* cecha                 – özellik
-* program               – proje
-* data                  – tarih
-* warunek               – koşul
-* decyzja               – seçim
+* Teściowa                      - Kayınvalide
+* Szwagier                      - Enişte/Kayınbirader
+* Szwagierka                    - Baldız/Görümce
+* Siostrzeniec                  - Yeğen (kız kardeşin oğlu)
+* Siostrzenica                  - Yeğen (kız kardeşin kızı)
+* Bratanek                      - Yeğen (erkek kardeşin oğlu)
+* Bratanica                     - Yeğen (erkek kardeşin kızı)
+* Zięć                          - Damat
+* Synowa                        - Gelin
+* Pradziadek                    - Büyükbüyükbaba
+
+* Prababcia                     - Büyükbüyükanne
+* Pasierb                       - Üvey oğul
+* Pasierbica                    - Üvey kız
+* Macocha                       - Üvey anne
+* Ojczym                        - Üvey baba
+* Brat przyrodni                - Üvey erkek kardeş
+* Siostra przyrodnia            - Üvey kız kardeş
+
+* spódnica                      - etek
+* spodnie                       - pantolon
+* sukienka                      - elbise
+* kurtka                        - ceket
+* sweter                        - kazak
+* koszula                       - gömlek
+* t-shirt                       - tişört
+* skarpetki                     - çorap
+* buty                          - ayakkabı
+* pasek                         - kemer
+* czapka                        - şapka
+* szalik                        - atkı
+* rękawiczki                    - eldiven
+
+* czas                          – zaman
+* rok                           – yıl
+* życie                         – hayat, yasam
+* dzień                         – gün
+* rzecz                         – şey
+* sposób                        – yol, yöntem
+* miejsce                       – yer
+* członek                       – üye
+* praca                         – iş
+* funkcja                       – fonksiyon
+
+* myśl                          – düşünce
+* informacja                    – bilgi
+* dziecko                       – çocuk
+* sprawa                        – mesele
+* temat                         – konu
+* idea                          – fikir, dusunce
+* fakt                          – gerçek
+* program                       – program, proje, plan
+* pytanie                       – soru
+* wartości                      – değerler
+
+* odpowiedź                     – cevap
+* problem                       – sorun, problem, mesele
+* system                        – sistem, yapı
+* kraj                          – ülke
+* szkoła                        – okul
+* miasto                        – şehir
+* historia                      – tarih
+* przykład                      – örnek
+* język                         – dil
+* sytuacja                      – durum, vaziyet
+
+* plan                          – plan
+* wynik                         – sonuç
+* naród                         – millet
+* rodzaj                        – tür
+* kolega                        – arkadaş
+* uczelnia                      – üniversite
+* zdarzenie                     – olay
+* wydarzenie                    - ektinlik
+* forma                         – şekil
+* władza                        – güç
+
+* decyzja                       – karar
+* rynek                         – pazar, piyasa
+* potrzeba                      – ihtiyaç
+* przedmiot                     – nesne
+* środowisko                    – çevre
+* cecha                         – özellik
+* sztuka                        – sanat
+* data                          – tarih
+* warunek                       – koşul
+* badanie                       – araştırma
+
+* sukces                        – başarı
+* przeszłość                    – geçmiş
+* przyszłość                    – gelecek
+* koncepcja                     – kavram
+* projekt                       – tasarım
+* zadanie                       – görev
+* element                       – unsur
+* miłość                        – sevgi, ask
+* słowo                         – kelime
+* informacja                    – haber
+
+* cel                           – hedef
+* zasada                        – prensip, kural
+* pojęcie                       – kavram
+* region                        – bölge
+* energia                       – enerji
+* zwierzę                       – hayvan
+* wyzwanie                      – meydan okuma
+* rozwój                        – gelişim
+* poziom                        – seviye
+* materiał                      – malzeme
 
 
 
-przykład – örnek
-potrzeba – ihtiyaç
-przedmiot – nesne
-badanie – araştırma
-sukces – başarı
-przeszłość – geçmiş
-przyszłość – gelecek
-przynależność – aidiyet
-koncepcja – kavram
-projekt – tasarım
-zadanie – görev
-element – unsur
-miłość – sevgi
-słowo – kelime
-informacja – haber
-cel – hedef
-zasada – kural
-pojęcie – kavram
-region – bölge
-program – plan
-zwierzę – hayvan
-wyzwanie – meydan okuma
-rozwój – gelişim
-poziom – seviye
-materiał – malzeme
-energia – enerji
-sztuka – sanat
-tradycja – gelenek
-problem – mesele
-idea – düşünce
-działanie – eylem
-zasób – kaynak
-wybór – seçim
-obiekt – nesne
-sytuacja – vaziyet
-kategoria – kategori
-system – düzen
-podejście – yaklaşım
-technika – teknik
-przyczyna – neden
-funkcja – fonksiyon
-zjawisko – olgu
-wartości – değerler
+* tradycja                      – gelenek
+* działanie                     – eylem
+* wybór                         – seçim
+* obiekt                        – nesne
+* kategoria                     – kategori
+* podejście                     – yaklaşım
+* technika                      – teknik
+* przyczyna                     – neden
+
+
+
+
+
+
 koszt – maliyet
 metoda – yöntem
+zasób – kaynak
 aktywność – aktivite
 doświadczenie – deneyim
 zawód – meslek
@@ -110,6 +183,7 @@ skala – ölçek
 przedsiębiorstwo – işletme
 rozwój – ilerleme
 czas – süre
+zjawisko – olgu
 kontekst – bağlam
 ryzyko – risk
 wybór – tercih
@@ -280,7 +354,6 @@ wzór – örnek
 koncepcja – anlayış
 informacja – bilgi
 wymagania – gereksinimler
-problem – sorun
 obliczenia – hesaplamalar
 struktura – yapı
 wyniki – sonuçlar
@@ -306,3 +379,161 @@ projekt – tasarım
 ryzyko – risk
 jakość – kalite
 podejście – yaklaşım
+przynależność – aidiyet
+
+
+
+
+
+
+
+
+
+Lodówka - Buzdolabı
+Pralka - Çamaşır makinesi
+Zmywarka - Bulaşık makinesi
+Piekarnik - Fırın
+Kuchenka mikrofalowa - Mikrodalga fırın
+Telewizor - Televizyon
+Komputer - Bilgisayar
+Laptop - Dizüstü bilgisayar
+Odkurzacz - Elektrikli süpürge
+Suszarka - Kurutma makinesi
+Żelazko - Ütü
+Ekspres do kawy - Kahve makinesi
+Czajnik elektryczny - Elektrikli su ısıtıcısı
+Klimatyzator - Klima
+Grzejnik - Elektrikli ısıtıcı
+Wentylator - Vantilatör
+Toster - Tost makinesi
+Blender - Blender
+Robot kuchenny - Mutfak robotu
+Radio - Radyo
+Głośniki - Hoparlör
+Ładowarka - Şarj cihazı
+Oświetlenie LED - LED aydınlatma
+Zegar elektroniczny - Dijital saat
+Suszarka do włosów - Saç kurutma makinesi
+
+
+Talerz - Tabak
+Miska - Kase
+Szklanka - Bardak
+Filiżanka - Fincan
+Kieliszek - Kadeh
+Kubek - Kupa
+Widelec - Çatal
+Nóż - Bıçak
+Łyżka - Kaşık
+Łyżeczka - Çay kaşığı
+Deska do krojenia - Kesme tahtası
+Garnek - Tencere
+Patelnia - Tava
+Rondel - Küçük tencere
+Chochla - Kepçe
+Cedzak - Süzgeç
+Tarka - Rende
+Sitko - Elek
+Szpatułka - Spatula
+Łyżka wazowa - Çorba kepçesi
+Nożyce kuchenne - Mutfak makası
+Nóż do chleba - Ekmek bıçağı
+Obieraczka do warzyw - Sebze soyacağı
+Wałek do ciasta - Oklava
+Foremka do pieczenia - Fırın kalıbı
+Blacha do pieczenia - Fırın tepsisi
+Solniczka - Tuzluk
+Pieprzniczka - Karabiberlik
+Taca - Tepsi
+Dzbanek - Sürahi
+Karafka - Karaf (şarap veya su sürahisi)
+Zestaw do przypraw - Baharatlık seti
+Korkociąg - Tirbuşon
+Otwieracz do butelek - Şişe açacağı
+Otwieracz do puszek - Konserve açacağı
+Naczynie żaroodporne - Fırın kabı
+Miarka kuchenna - Ölçü kabı
+Fartuch kuchenny - Mutfak önlüğü
+Rękawica kuchenna - Fırın eldiveni
+Zestaw sztućców - Çatal bıçak seti
+Durszlak - Makarna süzgeci
+Szklane słoiki - Cam kavanozlar
+Pokrywka - Tencere kapağı
+Młynek do pieprzu - Karabiber değirmeni
+Młynek do soli - Tuz değirmeni
+Serwetki - Peçeteler
+Podkładka pod garnek - Tencere altlığı
+Kubki miarowe - Ölçü kupaları
+Rondel do sosów - Sos tenceresi
+Łopatka do ciasta - Kek spatulası
+
+
+Kanapa - Kanepe
+Fotel - Koltuk
+Stół - Masa
+Krzesła - Sandalyeler
+Stolik kawowy - Orta sehpa
+Dywan - Halı
+Zasłony - Perdeler
+Firanki - Tül perdeler
+Poduszka dekoracyjna - Dekoratif yastık
+Koc - Battaniye
+Komoda - Şifonyer
+Regał - Kitaplık
+Szafka - Dolap
+Ława - Alçak masa
+Półka - Raf
+Wazon - Vazo
+Obraz - Resim/tablo
+Ramka na zdjęcia - Fotoğraf çerçevesi
+Lustro - Ayna
+Kosz na gazety - Gazetelik
+Zegar ścienny - Duvar saati
+Świecznik - Şamdan
+Dywanik - Küçük halı
+Narzuta - Örtü
+Parawan - Bölme/perde (oda bölücü)
+Kosz na poduszki - Yastık sepeti
+Stołek - Tabure
+Puf - Puf koltuk
+Skrzynia - Sandık
+Zestaw do kawy - Kahve seti
+Podkładki - Masa altlığı
+Serwetki - Peçeteler
+Zegar stojący - Ayaklı saat
+Patera - Meyve tabağı
+Kosz na kwiaty - Çiçek sepeti
+Figurki - Biblo/Heykelcikler
+
+
+
+Łóżko - Yatak
+Materac - Şilte
+Poduszka - Yastık
+Kołdra - Yorgan
+Poszewka na poduszkę - Yastık kılıfı
+Poszwa na kołdrę - Nevresim
+Prześcieradło - Çarşaf
+Koc - Battaniye
+Szafa - Dolap
+Komoda - Şifonyer
+Szafka nocna - Komodin
+Lustro - Ayna
+Toaletka - Makyaj masası
+Zasłony - Perdeler
+Firanki - Tül perdeler
+Dywanik - Küçük halı
+Pufa - Puf
+Wieszak na ubrania - Elbise askısı
+Kosz na pranie - Çamaşır sepeti
+Kapcie - Terlik
+Narzuta na łóżko - Yatak örtüsü
+Szafa na buty - Ayakkabılık
+Półka - Raf
+Świecznik - Şamdan
+Ramka na zdjęcia - Fotoğraf çerçevesi
+Zegar ścienny - Duvar saati
+Dywan - Halı
+Parawan - Oda bölücü
+Kosz na poduszki - Yastık sepeti
+Stolik nocny - Gece masası
