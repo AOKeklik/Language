@@ -13,7 +13,7 @@
 * praca                 – iş
 
 * myśl                  – düşünce
-* miłość                – aşk
+* informacja            – bilgi
 * rodzina               – aile
 * dziecko               – çocuk
 * sprawa                – mesele
@@ -34,26 +34,30 @@
 * język                 – dil
 * sytuacja              – durum
 
-informacja – bilgi
-plan – plan
-wynik – sonuç
-naród – millet
-rodzaj – tür
-kolega – arkadaş
-uczelnia – üniversite
-zdarzenie – olay
-forma – şekil
-władza – güç
-decyzja – karar
-rynek – pazar
-sposób – tarz
-problem – sorun
-środowisko – çevre
-cecha – özellik
-program – proje
-data – tarih
-warunek – koşul
-decyzja – seçim
+* plan                  – plan
+* wynik                 – sonuç
+* naród                 – millet
+* rodzaj                – tür
+* kolega                – arkadaş
+* uczelnia              – üniversite
+* zdarzenie             – olay
+* wydarzenie            - ektinlik
+* forma                 – şekil
+* władza                – güç
+
+* decyzja               – karar
+* rynek                 – pazar, piyasa
+* sposób                – tarz
+* problem               – sorun
+* środowisko            – çevre
+* cecha                 – özellik
+* program               – proje
+* data                  – tarih
+* warunek               – koşul
+* decyzja               – seçim
+
+
+
 przykład – örnek
 potrzeba – ihtiyaç
 przedmiot – nesne
@@ -138,14 +142,12 @@ postęp – ilerleme
 wynik – sonuç
 przedsiębiorstwo – şirket
 strategia – strateji
-rynek – pazar
 lider – lider
 głos – ses
 podejście – metot
 komunikacja – iletişim
 projekt – proje
 wartość – kıymet
-rynek – pazar
 inwestycja – yatırım
 sukces – muvaffakiyet
 analiza – analiz
