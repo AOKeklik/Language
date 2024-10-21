@@ -70,6 +70,60 @@
 * Brat przyrodni                - Üvey erkek kardeş
 * Siostra przyrodnia            - Üvey kız kardeş
 
+* === meslek ===
+
+lekarz - doktor
+nauczyciel - öğretmen
+prawnik - avukat
+inżynier - mühendis
+policjant - polis
+strażak - itfaiyeci
+pielęgniarka - hemşire
+kelner - garson
+mechanik - tamirci
+kucharz - aşçı
+fryzjer - kuaför
+kierowca - şoför
+rolnik - çiftçi
+architekt - mimar
+elektryk - elektrikçi
+informatyk - bilişim uzmanı (bilgisayarcı)
+sprzedawca - satıcı
+księgowy - muhasebeci
+aktor - oyuncu
+muzyk - müzisyen
+dentysta - dişçi
+weterynarz - veteriner
+psycholog - psikolog
+farmaceuta - eczacı
+naukowiec - bilim insanı
+projektant - tasarımcı
+fotograf - fotoğrafçı
+dziennikarz - gazeteci
+piekarz - fırıncı
+stolarz - marangoz
+krawiec - terzi
+taksówkarz - taksi şoförü
+rzecznik prasowy - basın sözcüsü
+pilot - pilot
+stewardessa - hostes
+tłumacz - tercüman/çevirmen
+dyrektor - müdür
+konstruktor - yapımcı (inşaat mühendisi)
+ślusarz - demirci/çilingir
+hydraulik - tesisatçı
+malarz - ressam/boyacı
+śpiewak - şarkıcı
+aktor - oyuncu
+deweloper - müteahhit
+logistyk - lojistik uzmanı
+górnik - madenci
+ochroniarz - güvenlik görevlisi
+przedsiębiorca - girişimci
+urzędnik - memur
+doradca - danışman
+
+
 * === Przedmioty noszone na ciele ===
 
 * spódnica                      - etek
@@ -105,7 +159,6 @@
 * rok                           – yıl
 * życie                         – hayat, yasam
 * dzień                         – gün
-czas - zaman
 godzina - saat
 minuta - dakika
 sekunda - saniye
