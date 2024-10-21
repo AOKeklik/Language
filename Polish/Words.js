@@ -1,6 +1,21 @@
 /*
 
+* wskazać                   - belirtmek, gostermek
+* znajdować                 - bulmak
+* znajdować się             - bulunmak
+* kwestia                   - mesele, konu
+* opisać                    - tanimlamak, aciklamak
+* zewnętrze                 - dis, dismekan
+* wnętrze                   - ic, icmekan
+* zastąpić                  - degistirmek, yerine gecmek
+
+* Podsyłać                  - göndermek, iletmek
+* przyjemność               - zevk, keyif
+* Pomyślnie                 - basari ile
 * zostawić                  - birakmak
+* pozostawiać               - birakmak
+* opuszczać                 - terketmek, birakmak
+* odejść                    - terketmek, gitmek
 * prawidłowy                - dogru
 * przycisk                  - dugme
 * wpis                      - girdi
