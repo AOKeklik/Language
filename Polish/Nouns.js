@@ -1,5 +1,6 @@
 /* 
 
+* === insan ===
 
 * ręka                          - kol
 * noga                          - bacak
@@ -11,8 +12,8 @@
 * serce                         - kalp
 * głowa                         - baş
 * bark                          - omuz
-* łokieć                        - dirsek
 
+* łokieć                        - dirsek
 * kolano                        - diz
 * stóp                          - ayak
 * nadgarstek                    - bilek
@@ -22,8 +23,11 @@
 * jelito cienkie                - ince bağırsak
 * jelito grube                  - kalın bağırsak
 * nerka                         - böbrek
+
 * trzustka                      - pankreas
 * mózg                          - beyin
+
+* === aile ===
 
 * rodzina                       – aile
 * człowiek                      – insan
@@ -66,9 +70,11 @@
 * Brat przyrodni                - Üvey erkek kardeş
 * Siostra przyrodnia            - Üvey kız kardeş
 
+* === Przedmioty noszone na ciele ===
+
 * spódnica                      - etek
-* spodnie                       - pantolon
 * sukienka                      - elbise
+* spodnie                       - pantolon
 * kurtka                        - ceket
 * sweter                        - kazak
 * koszula                       - gömlek
@@ -76,14 +82,57 @@
 * skarpetki                     - çorap
 * buty                          - ayakkabı
 * pasek                         - kemer
+
 * czapka                        - şapka
 * szalik                        - atkı
 * rękawiczki                    - eldiven
+* okulary                       - gözlük
+* zegarek                       - saat
+* kolczyki                      - küpe
+* naszyjnik                     - kolye
+* pierścionek                   - yüzük
+* bransoletka                   - bilezik
+
+* opaska na włosy               - saç bandı
+* proteza                       - protez
+* aparat ortodontyczny          - diş teli
+* soczewki kontaktowe           - kontakt lens
+* bandaż                        - bandaj
+
+* === zaman ===
 
 * czas                          – zaman
 * rok                           – yıl
 * życie                         – hayat, yasam
 * dzień                         – gün
+czas - zaman
+godzina - saat
+minuta - dakika
+sekunda - saniye
+dzień - gün
+tydzień - hafta
+miesiąc - ay
+rok - yıl
+dzisiaj - bugün
+wczoraj - dün
+jutro - yarın
+rano - sabah
+popołudnie - öğleden sonra
+wieczór - akşam
+noc - gece
+przyszłość - gelecek
+przeszłość - geçmiş
+teraźniejszość - şu an / şimdiki zaman
+poniedziałek - pazartesi
+wtorek - salı
+środa - çarşamba
+czwartek - perşembe
+piątek - cuma
+sobota - cumartesi
+niedziela - pazar
+
+* === athors ===
+
 * rzecz                         – şey
 * sposób                        – yol, yöntem
 * miejsce                       – yer
