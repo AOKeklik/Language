@@ -92,6 +92,26 @@
 * słodki                    – tatlı
 * kwaśny                    – ekşi
 
+
+
+Okrągły - Yuvarlak
+Przycięty - Kırpılmış
+Cięty - Kesik
+Połowa / Pół - Yarım
+Cały - Tam
+Prosty - Düz
+Kanciasty - Köşeli
+Gładki - Düzgün
+Cienki - İnce
+Gruby - Kalın
+Wysoki - Yüksek
+Niski - Alçak
+Szeroki - Geniş
+Wąski - Dar
+Sztywny - Sert
+
+prawidłowy - dogru
+nieprawidłowy - yanlis
 gorzki – acı
 słony – tuzlu
 świeży – taze

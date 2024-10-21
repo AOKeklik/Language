@@ -220,6 +220,17 @@ niedziela - pazar
 
 
 
+Kółko - Yuvarlak / Daire
+Kwadrat - Kare
+Prostokąt - Dikdörtgen
+Trójkąt - Üçgen
+Równoległobok - Paralelkenar
+Rom - Eşkenar dörtgen
+Elips - Elips
+Czworokąt - Dörtgen
+Sześcian - Küp
+Stożek - Konik
+
 
 
 koszt – maliyet

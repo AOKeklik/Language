@@ -158,8 +158,9 @@
 
 
 
-
-
+woleć - tercih etmek
+włączać - acmak, dahil etmek
+wyłączać - kapamak, cikartmak
 rozbierać – soymak
 walczyć – savaşmak
 bronić – savunmak

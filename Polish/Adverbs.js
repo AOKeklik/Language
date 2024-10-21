@@ -53,7 +53,7 @@
 
 
 
-
+natomiast - ayrica
 po lewej – sol tarafta
 po prawej – sağ tarafta
 przedtem – önceden
