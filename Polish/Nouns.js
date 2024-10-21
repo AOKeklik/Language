@@ -122,6 +122,34 @@ ochroniarz - güvenlik görevlisi
 przedsiębiorca - girişimci
 urzędnik - memur
 doradca - danışman
+programista - yazılımcı/programcı
+ekonomista - ekonomist
+sędzia - yargıç/hâkim
+adwokat - savcı
+żołnierz - asker
+mechanik samochodowy - oto tamircisi
+pracownik socjalny - sosyal hizmet görevlisi
+analityk - analist
+menedżer - yönetici
+reżyser - yönetmen
+projektant mody - moda tasarımcısı
+handlowiec - ticaret temsilcisi
+nurek - dalgıç
+modelka - model
+kosmetyczka - güzellik uzmanı
+masażysta - masör
+konserwator - bakım ustası/teknik servis
+magazynier - depo görevlisi
+muzyk - müzisyen
+artysta - sanatçı
+przewodnik - rehber
+agent nieruchomości - emlakçı
+makler giełdowy - borsa komisyoncusu
+ochroniarz - güvenlik görevlisi
+rolnik - tarım işçisi/çiftlik çalışanı
+geolog - jeolog
+kapitan - kaptan
+bibliotekarz - kütüphaneci
 
 
 * === Przedmioty noszone na ciele ===
