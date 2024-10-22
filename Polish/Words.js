@@ -1,11 +1,21 @@
 /*
 
+* zlikwidować               - kaldirmak
+* doślać                    - gondermek
+* wyrażenie                 - ifade
+* opisać                    - tanimlamak, aciklamak
+* kwestia                   - mesele, konu
+* przekazać                 - iletmek
 * wskazać                   - belirtmek, gostermek
+
 * znajdować                 - bulmak
 * znajdować się             - bulunmak
-* kwestia                   - mesele, konu
-* opisać                    - tanimlamak, aciklamak
-* zewnętrze                 - dis, dismekan
+* na zewnątrz               - disarida (zarf)
+* wewnątrz                  - iceride
+* zewnętrzny                - dis (sifat)
+* wewnętrzny                - ic
+* zewnętrze                 - dis, dismekan (ism)
+* wewnętrze                 - ic, icmekan
 * wnętrze                   - ic, icmekan
 * zastąpić                  - degistirmek, yerine gecmek
 
