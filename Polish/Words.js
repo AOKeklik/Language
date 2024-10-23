@@ -1,6 +1,17 @@
 /*
 
-* zlikwidować               - kaldirmak
+* Zmieniać się              - degismek
+* intuicyjny                - sezgisel
+* ale również               - ayrica, ayni zamanda
+* dostarczanie              - teslim, saglama, tedarik etme
+* dostarczać                - teslim etmek, saglamak
+* spełniać                  - karsilamak
+* utrzymanie                - surdurme, devam ettirme
+
+* odbiorca                  - alici, tuketici
+* przyjazny                 - kullanici dostu
+* różnorodny                - cesitli
+* Obejmować                 - kapsamak, icermek
 * doślać                    - gondermek
 * wyrażenie                 - ifade
 * opisać                    - tanimlamak, aciklamak
@@ -8,18 +19,28 @@
 * przekazać                 - iletmek
 * wskazać                   - belirtmek, gostermek
 
+* wysyłać                   - gondermek (genel)
+* posyłać                   - gondermek (genel - gayriresmi)
+* zasyłać                   - gondermek (resmi)
+* Podsyłać                  - göndermek (ek olarak, asistan ile, posta ile)
+* przysyłać                 - gondermek (o anda gonderilen ulasiyor)
+* dosyłać                   - gondermek (ek olarak)
+* odsyłać                   - geri gondermek
+* nasyłać                   - gondermek (olumsuz, adam, polis)
+* rozsyłać                  - gondermek (dagitmak, davetiye )
+
 * znajdować                 - bulmak
 * znajdować się             - bulunmak
 * na zewnątrz               - disarida (zarf)
 * wewnątrz                  - iceride
 * zewnętrzny                - dis (sifat)
 * wewnętrzny                - ic
-* zewnętrze                 - dis, dismekan (ism)
-* wewnętrze                 - ic, icmekan
+* zewnętrzne                - dis, dismekan (ism)
+* wewnętrzne                - ic, icmekan
 * wnętrze                   - ic, icmekan
 * zastąpić                  - degistirmek, yerine gecmek
 
-* Podsyłać                  - göndermek, iletmek
+* zlikwidować               - kaldirmak
 * przyjemność               - zevk, keyif
 * Pomyślnie                 - basari ile
 * zostawić                  - birakmak
@@ -54,11 +75,11 @@
 * znikać                    - kaybolmak, gozden kaybolmak
 
 * Przypominać               - Hatırlamak
-* Przypomnieć               - Hatırlatmak
-* Zapamiętać                - Akılda tutmak
 * Zapominać                 - Unutmak
+* Przypomnieć               - Hatırlatmak
 * Zapomnieć                 - Unutmak (geçmiş zaman)
 * Pamiętać                  - Hatırlamak, anımsamak
+* Zapamiętać                - Akılda tutmak
 * Wspominać                 - Anmak, hatırlamak
 * Odnowić pamięć            - Belleği yenilemek
 
