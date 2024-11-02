@@ -1,5 +1,283 @@
 /* 
 
+
+* === zaman ===
+
+* czas                              – zaman, süre
+* rok                               – yıl
+* życie                             – hayat, yasam
+* dzień                             – gün
+* godzina                           - saat
+* minuta                            - dakika
+* sekunda                           - saniye
+* tydzień                           - hafta
+* miesiąc                           - ay
+* rok                               - yıl
+
+* dzisiaj                           - bugün
+* wczoraj                           - dün
+* jutro                             - yarın
+* rano                              - sabah
+* popołudnie                        - öğleden sonra
+* wieczór                           - akşam
+* noc                               - gece
+* przyszłość                        - gelecek
+* przeszłość                        - geçmiş
+* teraźniejszość                    - şu an / şimdiki zaman
+
+* poniedziałek                      - pazartesi
+* wtorek                            - salı
+* środa                             - çarşamba
+* czwartek                          - perşembe
+* piątek                            - cuma
+* sobota                            - cumartesi
+* niedziela                         - pazar
+
+* Styczeń                           - Ocak
+* Luty                              - Şubat
+* Marzec                            - Mart
+* Kwiecień                          - Nisan
+* Maj                               - Mayıs
+* Czerwiec                          - Haziran
+* Lipiec                            - Temmuz
+* Sierpień                          - Ağustos
+* Wrzesień                          - Eylül
+* Październik                       - Ekim
+* Listopad                          - Kasım
+* Grudzień                          - Aralık
+
+
+* ===== athors =====
+
+* ambicja                           – hirs
+* projekt                           – tasarım, proje
+* ryzyko                            – risk, tehlike
+* jakość                            – kalite
+* podejście                         – tutum,yaklaşım,metot
+* rzecz                             – şey
+* sposób                            – yol, yöntem
+* miejsce                           – yer
+* członek                           – üye
+
+* Kółko                             - Yuvarlak / Daire
+* Kwadrat                           - Kare
+* Prostokąt                         - Dikdörtgen
+* Trójkąt                           - Üçgen
+* Elips                             - Elips
+* Czworokąt                         - Dörtgen
+* Sześcian                          - Küp
+
+* przyczyna                         – neden, gerekçe
+* funkcja                           – fonksiyon
+* myśl                              – düşünce
+* informacja                        – bilgi
+* sprawa                            – mesele
+* temat                             – konu, mesele
+* idea                              – fikir, dusunce
+* fakt                              – gerçek
+* program                           – program, proje, plan
+* kultura                           – kültür
+
+* pytanie                           – soru
+* wartość                           – değer,kıymet
+* odpowiedź                         – cevap
+* problem                           – sorun, problem, mesele
+* system                            – sistem, yapı
+* kraj                              – ülke
+* szkoła                            – okul
+* miasto                            – şehir
+* historia                          – tarih
+* przykład                          – örnek
+
+* język                             – dil
+* sytuacja                          – durum, vaziyet
+* plan                              – plan, tasari
+* wynik                             – sonuç
+* naród                             – millet
+* rodzaj                            – tür
+* kolega                            – arkadaş
+* uczelnia                          – üniversite
+* zdarzenie                         – olay
+* wydarzenie                        - etkinlik
+
+* forma                             – şekil
+* władza                            – güç, otorite, yetki
+* decyzja                           – karar
+* rynek                             – pazar, piyasa
+* potrzeba                          – ihtiyaç, gereksinim
+* przedmiot                         – nesne,konu
+* środowisko                        – çevre
+* cecha                             – özellik
+* sztuka                            – sanat
+* data                              – tarih
+
+* warunek                           – koşul
+* badanie                           – araştırma
+* sukces                            – başarı
+* przeszłość                        – geçmiş
+* przyszłość                        – gelecek
+* koncepcja                         – kavram, dusunce, anlayış
+* rezultat                          – netice
+* zadanie                           – görev
+* element                           – unsur
+* miłość                            – sevgi, ask
+
+* słowo                             – kelime
+* informacja                        – haber
+* cel                               – hedef, amac
+* zasada                            – prensip, kural
+* pojęcie                           – kavram
+* region                            – bölge, alan
+* energia                           – enerji
+* zwierzę                           – hayvan
+* wyzwanie                          – meydan okuma, zorluk
+* rozwój                            – gelişim, ilerleme
+
+* poziom                            – seviye
+* materiał                          – malzeme,içerik
+* tradycja                          – gelenek
+* działanie                         – eylem
+* wybór                             – seçim,tercih
+* obiekt                            – nesne
+* kategoria                         – kategori, gurup
+* podejście                         – yaklaşım
+* technika                          – teknik, yöntem
+* praca                             – iş
+
+* metoda                            – yöntem
+* zasób                             – kaynak
+* aktywność                         – aktivite
+* doświadczenie                     – deneyim
+* zawód                             – meslek
+* skala                             – ölçek, cerceve
+* przedsiębiorstwo                  – işletme, firma
+* zjawisko                          – olgu, (dogal fenomen)
+* kontekst                          – bağlam 
+* powód                             – sebep
+
+* wsparcie                          – destek
+* perspektywa                       – bakış açısı
+* twórczość                         – yaratıcılık
+* komunikacja                       – iletişim
+* osiągnięcie                       – başarı
+* prawo                             – yasa, hak
+* myślenie                          – düşünme
+* dział                             – bölüm
+* skutek                            – etki
+* pomysł                            – fikir
+
+* technologia                       – teknoloji
+* infrastrukturę                    – altyapı
+* zespół                            – ekip
+* efekt                             – etki
+* organizacja                       – organizasyon, kurum
+* regulacja                         – düzenleme, kural
+* zmiana                            – değişiklik
+* postęp                            – ilerleme
+* wynik                             – sonuç
+* inwestycja                        – yatırım
+
+* strategia                         – strateji, plan, taktik, tasari
+* lider                             – lider
+* głos                              – ses
+* analiza                           – analiz
+* dokument                          – belge
+* zrozumienie                       – anlama, kavrayış
+* dostęp                            – erişim
+* grupa                             – grup
+* rozwiązanie                       – çözüm
+* pasja                             - tutku
+
+* wpływ                             – etki
+* zagadnienie                       – mesele
+* podmiot                           – taraf
+* teoria                            – teori
+* oprogramowanie                    – yazılım
+* różnorodność                      – çeşitlilik
+* realizacja                        – gerçekleştirme 
+* dialog                            – diyalog
+* relacja                           – ilişki, bağlantı
+* wzrost                            – artış
+
+* obszar                            – bölge
+* wyobrażenie                       – hayal
+* liczba                            – rakam, sayı
+* odniesienie                       – referans, atif
+* zakres                            – kapsam
+* nowość                            – yenilik
+* kształt                           – sekik, biçim
+* zastosowanie                      – uygulama
+* wymóg                             – gereklilik
+* nauka                             – bilim
+
+wyniki – sonuçlar
+zadanie – görev
+miejsce – pozisyon
+zmiana – değişiklik
+wdrożenie – uygulama
+forma – şekil
+
+dowód – kanıt
+odpowiedź – cevap
+środowisko – ortam
+
+zasoby – kaynaklar
+struktura – yapı
+teza – önerme
+zestawienie – karşılaştırma
+tło – arka plan
+wyniki – sonuçlar
+pojęcie – kavram
+metody – yöntemler
+obliczenia – hesaplamalar
+
+zamówienie – sipariş
+ocena – değerlendirme
+badanie – analiz
+przedmiot – konu
+propozycja – öneri
+wniosek – sonuç
+poziom – seviye
+zrozumienie – kavrayış
+
+akcja – eylem
+proces – süreç
+podejście – yaklaşım
+relacja – bağ
+współpraca – iş birliği
+usługa – hizmet
+obowiązek – yükümlülük
+środowisko – çevre
+zgłoszenie – bildirim
+lista – liste
+
+poziom – düzey
+partnerstwo – ortaklık
+dokumentacja – dokümantasyon
+wzór – örnek
+informacja – bilgi
+wymagania – gereksinimler
+obliczenia – hesaplamalar
+
+struktura – yapı
+wyniki – sonuçlar
+poziom – derecelendirme
+ocena – değerlendirme
+interakcja – etkileşim
+współpraca – kooperasyon
+proces – işlem
+analiza – inceleme
+
+doświadczenie – tecrübe
+wybór – tercih
+wsparcie – destek
+badanie – araştırma
+zrozumienie – kavrama
+informacja – veri
+myśl – fikir
+wybór – seçim
+skuteczność – etkinlik
+
 * === insan ===
 
 * ręka                          - kol
@@ -12,28 +290,28 @@
 * serce                         - kalp
 * głowa                         - baş
 * bark                          - omuz
-
 * łokieć                        - dirsek
-* kolano                        - diz
-* stóp                          - ayak
+
+* kolano                            - diz
+* stóp                                - ayak
 * nadgarstek                    - bilek
-* płuca                         - akciğer
+* płuca                               - akciğer
 * wątroba                       - karaciğer
 * żołądek                       - mide
 * jelito cienkie                - ince bağırsak
 * jelito grube                  - kalın bağırsak
-* nerka                         - böbrek
-
-* trzustka                      - pankreas
-* mózg                          - beyin
+* nerka                            - böbrek
+* trzustka                       - pankreas
+* mózg                             - beyin
 
 * === aile ===
 
 * rodzina                       – aile
 * człowiek                      – insan
-* Matka                         - Anne
-* Ojciec                        - Baba
+* Matka                           - Anne
+* Ojciec                           - Baba
 * Rodzice                       - Ebeveynler
+* dziecko                            – çocuk
 * Syn                           - Oğul
 * Córka                         - Kız evlat
 * Brat                          - Erkek kardeş
@@ -54,23 +332,45 @@
 * Teściowa                      - Kayınvalide
 * Szwagier                      - Enişte/Kayınbirader
 * Szwagierka                    - Baldız/Görümce
-* Siostrzeniec                  - Yeğen (kız kardeşin oğlu)
-* Siostrzenica                  - Yeğen (kız kardeşin kızı)
-* Bratanek                      - Yeğen (erkek kardeşin oğlu)
-* Bratanica                     - Yeğen (erkek kardeşin kızı)
+* Siostrzeniec             - Yeğen (kız kardeşin oğlu)
+* Siostrzenica                - Yeğen (kız kardeşin kızı)
+* Bratanek                - Yeğen (erkek kardeşin oğlu)
+* Bratanica               - Yeğen (erkek kardeşin kızı)
 * Zięć                          - Damat
 * Synowa                        - Gelin
 * Pradziadek                    - Büyükbüyükbaba
-
 * Prababcia                     - Büyükbüyükanne
-* Pasierb                       - Üvey oğul
-* Pasierbica                    - Üvey kız
-* Macocha                       - Üvey anne
-* Ojczym                        - Üvey baba
-* Brat przyrodni                - Üvey erkek kardeş
-* Siostra przyrodnia            - Üvey kız kardeş
 
-* === meslek ===
+* === Przedmioty noszone na ciele ===
+
+* spódnica                      - etek
+* sukienka                      - elbise
+* spodnie                       - pantolon
+* kurtka                        - ceket
+* sweter                        - kazak
+* koszula                       - gömlek
+* t-shirt                       - tişört
+* skarpetki                     - çorap
+* buty                          - ayakkabı
+* pasek                         - kemer
+
+* czapka                        - şapka
+* szalik                        - atkı
+* rękawiczki                    - eldiven
+* okulary                       - gözlük
+* zegarek                       - saat
+* kolczyki                      - küpe
+* naszyjnik                     - kolye
+* pierścionek                   - yüzük
+* bransoletka                   - bilezik
+
+* opaska na włosy            - saç bandı
+* proteza                             - protez
+* aparat ortodontyczny          - diş teli
+* soczewki kontaktowe          - kontakt lens
+* bandaż                             - bandaj
+
+* ===== meslek ======
 
 lekarz - doktor
 nauczyciel - öğretmen
@@ -116,7 +416,6 @@ malarz - ressam/boyacı
 śpiewak - şarkıcı
 aktor - oyuncu
 deweloper - müteahhit
-logistyk - lojistik uzmanı
 górnik - madenci
 ochroniarz - güvenlik görevlisi
 przedsiębiorca - girişimci
@@ -128,408 +427,23 @@ sędzia - yargıç/hâkim
 adwokat - savcı
 żołnierz - asker
 mechanik samochodowy - oto tamircisi
-pracownik socjalny - sosyal hizmet görevlisi
-analityk - analist
 menedżer - yönetici
 reżyser - yönetmen
-projektant mody - moda tasarımcısı
-handlowiec - ticaret temsilcisi
 nurek - dalgıç
 modelka - model
 kosmetyczka - güzellik uzmanı
 masażysta - masör
-konserwator - bakım ustası/teknik servis
 magazynier - depo görevlisi
 muzyk - müzisyen
 artysta - sanatçı
 przewodnik - rehber
 agent nieruchomości - emlakçı
-makler giełdowy - borsa komisyoncusu
 ochroniarz - güvenlik görevlisi
 rolnik - tarım işçisi/çiftlik çalışanı
-geolog - jeolog
 kapitan - kaptan
 bibliotekarz - kütüphaneci
 
-
-* === Przedmioty noszone na ciele ===
-
-* spódnica                      - etek
-* sukienka                      - elbise
-* spodnie                       - pantolon
-* kurtka                        - ceket
-* sweter                        - kazak
-* koszula                       - gömlek
-* t-shirt                       - tişört
-* skarpetki                     - çorap
-* buty                          - ayakkabı
-* pasek                         - kemer
-
-* czapka                        - şapka
-* szalik                        - atkı
-* rękawiczki                    - eldiven
-* okulary                       - gözlük
-* zegarek                       - saat
-* kolczyki                      - küpe
-* naszyjnik                     - kolye
-* pierścionek                   - yüzük
-* bransoletka                   - bilezik
-
-* opaska na włosy               - saç bandı
-* proteza                       - protez
-* aparat ortodontyczny          - diş teli
-* soczewki kontaktowe           - kontakt lens
-* bandaż                        - bandaj
-
-* === zaman ===
-
-* czas                          – zaman
-* rok                           – yıl
-* życie                         – hayat, yasam
-* dzień                         – gün
-godzina - saat
-minuta - dakika
-sekunda - saniye
-dzień - gün
-tydzień - hafta
-miesiąc - ay
-rok - yıl
-dzisiaj - bugün
-wczoraj - dün
-jutro - yarın
-rano - sabah
-popołudnie - öğleden sonra
-wieczór - akşam
-noc - gece
-przyszłość - gelecek
-przeszłość - geçmiş
-teraźniejszość - şu an / şimdiki zaman
-poniedziałek - pazartesi
-wtorek - salı
-środa - çarşamba
-czwartek - perşembe
-piątek - cuma
-sobota - cumartesi
-niedziela - pazar
-
-* === athors ===
-
-* rzecz                         – şey
-* sposób                        – yol, yöntem
-* miejsce                       – yer
-* członek                       – üye
-* praca                         – iş
-* funkcja                       – fonksiyon
-
-* myśl                          – düşünce
-* informacja                    – bilgi
-* dziecko                       – çocuk
-* sprawa                        – mesele
-* temat                         – konu
-* idea                          – fikir, dusunce
-* fakt                          – gerçek
-* program                       – program, proje, plan
-* pytanie                       – soru
-* wartości                      – değerler
-
-* odpowiedź                     – cevap
-* problem                       – sorun, problem, mesele
-* system                        – sistem, yapı
-* kraj                          – ülke
-* szkoła                        – okul
-* miasto                        – şehir
-* historia                      – tarih
-* przykład                      – örnek
-* język                         – dil
-* sytuacja                      – durum, vaziyet
-
-* plan                          – plan
-* wynik                         – sonuç
-* naród                         – millet
-* rodzaj                        – tür
-* kolega                        – arkadaş
-* uczelnia                      – üniversite
-* zdarzenie                     – olay
-* wydarzenie                    - ektinlik
-* forma                         – şekil
-* władza                        – güç
-
-* decyzja                       – karar
-* rynek                         – pazar, piyasa
-* potrzeba                      – ihtiyaç
-* przedmiot                     – nesne
-* środowisko                    – çevre
-* cecha                         – özellik
-* sztuka                        – sanat
-* data                          – tarih
-* warunek                       – koşul
-* badanie                       – araştırma
-
-* sukces                        – başarı
-* przeszłość                    – geçmiş
-* przyszłość                    – gelecek
-* koncepcja                     – kavram
-* projekt                       – tasarım
-* zadanie                       – görev
-* element                       – unsur
-* miłość                        – sevgi, ask
-* słowo                         – kelime
-* informacja                    – haber
-
-* cel                           – hedef
-* zasada                        – prensip, kural
-* pojęcie                       – kavram
-* region                        – bölge
-* energia                       – enerji
-* zwierzę                       – hayvan
-* wyzwanie                      – meydan okuma
-* rozwój                        – gelişim
-* poziom                        – seviye
-* materiał                      – malzeme
-
-
-
-* tradycja                      – gelenek
-* działanie                     – eylem
-* wybór                         – seçim
-* obiekt                        – nesne
-* kategoria                     – kategori
-* podejście                     – yaklaşım
-* technika                      – teknik
-* przyczyna                     – neden
-
-
-
-
-Kółko - Yuvarlak / Daire
-Kwadrat - Kare
-Prostokąt - Dikdörtgen
-Trójkąt - Üçgen
-Równoległobok - Paralelkenar
-Rom - Eşkenar dörtgen
-Elips - Elips
-Czworokąt - Dörtgen
-Sześcian - Küp
-Stożek - Konik
-
-
-
-koszt – maliyet
-metoda – yöntem
-zasób – kaynak
-aktywność – aktivite
-doświadczenie – deneyim
-zawód – meslek
-skala – ölçek
-przedsiębiorstwo – işletme
-rozwój – ilerleme
-czas – süre
-zjawisko – olgu
-kontekst – bağlam
-ryzyko – risk
-wybór – tercih
-wydarzenie – etkinlik
-badania – araştırmalar
-wsparcie – destek
-perspektywa – bakış açısı
-materiał – içerik
-twórczość – yaratıcılık
-język – lisan
-osiągnięcie – başarı
-prawo – yasa
-wartość – değer
-myślenie – düşünme
-dział – bölüm
-skutek – etki
-przedmiot – konu
-pomysł – fikir
-rezultat – netice
-technologia – teknoloji
-infrastrukturę – altyapı
-zespół – ekip
-powód – sebep
-efekt – etki
-organizacja – organizasyon
-regulacja – düzenleme
-zmiana – değişiklik
-osiągnięcie – başarı
-postęp – ilerleme
-wynik – sonuç
-przedsiębiorstwo – şirket
-strategia – strateji
-lider – lider
-głos – ses
-podejście – metot
-komunikacja – iletişim
-projekt – proje
-wartość – kıymet
-inwestycja – yatırım
-sukces – muvaffakiyet
-analiza – analiz
-dokument – belge
-zrozumienie – anlama
-zjawisko – fenomen
-dostęp – erişim
-grupa – grup
-decyzja – karar
-kultura – kültür
-przyczyna – sebep
-rozwiązanie – çözüm
-technologia – teknoloji
-strategia – plan
-poziom – düzey
-wpływ – etki
-zagadnienie – mesele
-podmiot – taraf
-zasób – kaynak
-teoria – teori
-oprogramowanie – yazılım
-różnorodność – çeşitlilik
-władza – otorite
-rozwój – gelişim
-realizacja – gerçekleştirme
-koncepcja – düşünce
-region – alan
-cel – amaç
-organizacja – kurum
-zjawisko – olay
-ryzyko – tehlike
-pytanie – soru
-dialog – diyalog
-zespół – takım
-skala – ölçü
-przykład – misal
-wyzwanie – zorluk
-informacja – bilgi
-zadanie – iş
-relacja – ilişki
-wzrost – artış
-zaangażowanie – katılım
-technika – yöntem
-obszar – bölge
-wartość – değer
-wyobrażenie – hayal
-potrzeba – gereksinim
-system – yapı
-liczba – sayı
-projekt – tasarım
-relacja – bağlantı
-zrozumienie – kavrayış
-odniesienie – referans
-prawo – hak
-przyczyna – gerekçe
-przedsiębiorstwo – firma
-strategia – taktik
-ryzyko – risk
-zakres – alan
-skala – çerçeve
-obiekt – nesne
-nowość – yenilik
-temat – mesele
-kategoria – grup
-potrzeba – ihtiyaç
-plan – tasarı
-strategia – planlama
-relacja – durum
-język – dil
-zjawisko – olay
-nowość – yenilik
-doświadczenie – tecrübe
-regulacja – kural
-kształt – biçim
-perspektywa – bakış açısı
-zastosowanie – uygulama
-wymóg – gereklilik
-program – plan
-nauka – bilim
-wyniki – sonuçlar
-zadanie – görev
-miejsce – pozisyon
-zmiana – değişiklik
-cel – hedef
-system – sistem
-wdrożenie – uygulama
-forma – şekil
-podejście – tutum
-dowód – kanıt
-liczba – rakam
-pytanie – soru
-odpowiedź – cevap
-środowisko – ortam
-zasoby – kaynaklar
-struktura – yapı
-teza – önerme
-zestawienie – karşılaştırma
-tło – arka plan
-wyniki – sonuçlar
-nowość – yeni
-pojęcie – kavram
-metody – yöntemler
-obliczenia – hesaplamalar
-zamówienie – sipariş
-ocena – değerlendirme
-badanie – analiz
-przedmiot – konu
-propozycja – öneri
-wniosek – sonuç
-projekt – proje
-strategia – plan
-poziom – seviye
-zrozumienie – kavrayış
-akcja – eylem
-proces – süreç
-podejście – yaklaşım
-relacja – bağ
-współpraca – iş birliği
-usługa – hizmet
-obowiązek – yükümlülük
-środowisko – çevre
-zgłoszenie – bildirim
-lista – liste
-poziom – düzey
-projekt – plan
-partnerstwo – ortaklık
-dokumentacja – dokümantasyon
-władza – yetki
-wzór – örnek
-koncepcja – anlayış
-informacja – bilgi
-wymagania – gereksinimler
-obliczenia – hesaplamalar
-struktura – yapı
-wyniki – sonuçlar
-poziom – derecelendirme
-ocena – değerlendirme
-interakcja – etkileşim
-projekt – projesi
-współpraca – kooperasyon
-proces – işlem
-analiza – inceleme
-relacja – ilişki
-doświadczenie – tecrübe
-wybór – tercih
-wsparcie – destek
-badanie – araştırma
-zrozumienie – kavrama
-informacja – veri
-myśl – fikir
-cel – amaç
-wybór – seçim
-skuteczność – etkinlik
-projekt – tasarım
-ryzyko – risk
-jakość – kalite
-podejście – yaklaşım
-przynależność – aidiyet
-
-
-
-
-
-
-
-
-
+* ===== Eva esyalari =====
 Lodówka - Buzdolabı
 Pralka - Çamaşır makinesi
 Zmywarka - Bulaşık makinesi
@@ -678,3 +592,36 @@ Dywan - Halı
 Parawan - Oda bölücü
 Kosz na poduszki - Yastık sepeti
 Stolik nocny - Gece masası
+
+* === Alisveris ===
+
+1. Koszt - Maliyet
+2. Cena - Fiyat
+3. Zniżka - İndirim
+4. Rabat - İndirim
+5. Produkt - Ürün
+6. Sklep - Dükkan
+7. Towar - Mal
+8. Paragon - Fatura
+9. Klient - Müşteri
+10. Karta - Kart
+11. Wyprzedaż - Satış
+12. Zakup - Alım
+13. Rachunek - Hesap
+14. Oferta - Teklif
+15. Sprzedawca - Satıcı
+16. Koszyk - Sepet
+17. Waga - Terazi
+18. Bilet - Bilet
+19. Marka - Marka
+20. Używany - İkinci el
+21. Ekspres - Ekspres
+22. Płatność - Ödeme
+23. Klucz - Anahtar
+24. Czek - Çek
+25. Kasa - Kasa
+27. Sezon - Sezon
+28. Zestaw - Set
+29. Przecena - Etiket fiyatı düşürme
+30. Promocja - Kampanya
+31.

@@ -1,6 +1,5 @@
 /*
 
-* Zmieniać się              - degismek
 * intuicyjny                - sezgisel
 * ale również               - ayrica, ayni zamanda
 * dostarczanie              - teslim, saglama, tedarik etme
@@ -11,13 +10,8 @@
 * odbiorca                  - alici, tuketici
 * przyjazny                 - kullanici dostu
 * różnorodny                - cesitli
-* Obejmować                 - kapsamak, icermek
-* doślać                    - gondermek
 * wyrażenie                 - ifade
-* opisać                    - tanimlamak, aciklamak
 * kwestia                   - mesele, konu
-* przekazać                 - iletmek
-* wskazać                   - belirtmek, gostermek
 
 * wysyłać                   - gondermek (genel)
 * posyłać                   - gondermek (genel - gayriresmi)
@@ -38,15 +32,10 @@
 * zewnętrzne                - dis, dismekan (ism)
 * wewnętrzne                - ic, icmekan
 * wnętrze                   - ic, icmekan
-* zastąpić                  - degistirmek, yerine gecmek
 
-* zlikwidować               - kaldirmak
 * przyjemność               - zevk, keyif
 * Pomyślnie                 - basari ile
 * zostawić                  - birakmak
-* pozostawiać               - birakmak
-* opuszczać                 - terketmek, birakmak
-* odejść                    - terketmek, gitmek
 * prawidłowy                - dogru
 * przycisk                  - dugme
 * wpis                      - girdi
