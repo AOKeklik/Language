@@ -1,5 +1,12 @@
 /*
 
+* zastosować                            - uygulamak
+** stosować                             - uygulamak
+* wykonywać                             - gerceklestirmek
+** wprowadzić                           - girmek (birkere)
+
+* skontaktować                          - iletisime gecmek
+* uzyskać                               - kazanmak, elde etmek
 * połknąć                               - yutmak (lokma)
 * Osiedlać się                          - yerlesmek
 * znajdować                             - bulmak
@@ -9,27 +16,27 @@
 * poszerzyć                             - genisletmek
 * tracić                                – kaybetmek
 
-* założyć                               - kurmak, baslatmak
+** założyć                              - kurmak, baslatmak
 * ocenić                                - degerlendirmek
 * rozwinąć                              - genisletmek
 * rozwiązać                             - cozmek
 * podjąć                                - karar almak
 * zrealizować                           - gerceklestirmek
-* dostosować                            - uyarlamak, uygun hale getirmek
+** dostosować                            - uyarlamak, uygun hale getirmek
 * odnawiać                              - yenilemek
-* przeprowadzić                         - gerceklestirmek, tasimak
+** przeprowadzić                        - gerceklestirmek, tasimak
 * zostawiać                             - birakmak
 
-* stawić                            - koymak, yerlestirmek 
-* odchodzić                         - ayrilmak
-* kładać                            - koymak
-* oceniać                           - degerlendirmek
-* przestać                          - birakmak (birsey yapmayi)
-* załatwić                          – halletmek
-* posiadać                          - sahib olmak
-* poświęcić                         - adamak
-* zapisać                           - kaydetmek
-* zostawić                          - birakmak
+* stawić                                - koymak, yerlestirmek 
+* odchodzić                             - ayrilmak
+** kładać                               - koymak
+* oceniać                               - degerlendirmek
+** przestać                             - birakmak (birsey yapmayi)
+* załatwić                              – halletmek
+* posiadać                              - sahib olmak
+* poświęcić                             - adamak
+* zapisać                               - kaydetmek
+* zostawić                              - birakmak
 
 * polegać                           - dayanmk, guvenmek, bagli olmk
 * śledzić                           - izlemek, takip etmek
@@ -80,9 +87,9 @@
 * zbierać                           – toplamak
 * schować                           – saklamak
 * porównywać                        – karşılaştırmak
-* organizować                       – planlamak
+* organizować                       – planlamak, duzenlemek
 * usuwać                            – kaldırmak
-* przeprowadzać                     – yürütmek
+*** przeprowadzać                   – yürütmek
 * mijać                             – geçmek
 
 * przekraczać                           – aşmak
@@ -125,8 +132,8 @@
 * otwierać                              – açmak
 * zamykać                               – kapatmak
 * siedzieć                              – oturmak
-* stać                                  – ayakta durmak
-* leżeć                                 – yatmak
+** stać                                 – ayakta durmak
+* radzić                                – tavsiye vermek
 * umieć                                 – bilmek (yapabilmek)
 
 * rozumieć                              – anlamak
@@ -137,172 +144,172 @@
 * przychodzić                           – gelmek
 * wychodzić                             – dışarı çıkmak
 * przyjeżdżać                           – varmak, gelmek (araç)
-* wstać                                 – kalkmak
+** wstać                                – kalkmak
 * ciąć                                  – kesmek
 
-* położyć               – koymak
-* wierzyć               – inanmak
-* znać                  – tanımak, bilmek
-* liczyć                – saymak
-* budować               – inşa etmek
-* zmieniać              – değiştirmek
-* zamawiać              – sipariş vermek
-* robić zakupy          – alışveriş yapmak
-* naprawiać             – tamir etmek
+** położyć                              – koymak
+* wierzyć                               – inanmak
+* znać                                  – tanımak, bilmek
+* liczyć                                – saymak
+* budować                               – inşa etmek
+* zmieniać                              – değiştirmek
+* zamawiać                              – sipariş vermek
+* robić zakupy                          – alışveriş yapmak
+* naprawiać                             – tamir etmek
 
-* zaczynać              – başlamak
-* kończyć               – bitirmek
-* zapraszać             – davet etmek
-* czekać                – beklemek
-* dzwonić               – telefon etmek, aramak
-* śpiewać               – şarkı söylemek
-* gotować               – yemek pişirmek
-* bawić się             – eğlenmek, oynamak
-* pływać                  – yüzmek
-* prowadzić                             – sürmek, yönetmek
+* zaczynać                              – başlamak
+* kończyć                               – bitirmek
+* zapraszać                             – davet etmek
+* czekać                                – beklemek
+* dzwonić                               – telefon etmek, aramak
+* śpiewać                               – şarkı söylemek
+* gotować                               – yemek pişirmek
+* bawić się                             – eğlenmek, oynamak
+* pływać                                – yüzmek
+** prowadzić                            – sürmek, yönetmek
 
-* uśmiechać się             – gülümsemek
-* płakać                           – ağlamak
-* bić                                  – dövmek
-* palić                 – sigara içmek, yakmak
-* malować               – resim yapmak, boyamak
-* podróżować            – seyahat etmek
-* używać                    – kullanmak
-* radzić                      – tavsiye vermek
-* powtarzać             – tekrar etmek
-* wygrywać              – kazanmak
+* zabraniać                             – yasaklamak
+* uśmiechać się                         – gülümsemek
+* płakać                                – ağlamak
+* palić                                 – sigara içmek, yakmak
+* malować                               – resim yapmak, boyamak
+* podróżować                            – seyahat etmek
+* używać                                – kullanmak
+* leżeć                                 – yatmak
+* powtarzać                             – tekrar etmek
+* wygrywać                              – kazanmak
 
-* dotykać                     – dokunmak
-* kłaść                          – koymak
-* kłamać                      – yalan söylemek
-* gubić                                  – kaybolmak
-* nosić                 – taşımak, giymek
-* spotykać                    – buluşmak
-* trzymać                      – tutmak
-* ciągnąć                      – çekmek
-* pchać                         – itmek
-* uciekać                      – kaçmak
+* dotykać                               – dokunmak
+* kłaść                                 – koymak
+* kłamać                                – yalan söylemek
+* gubić                                 – kaybolmak
+* nosić                                 – taşımak, giymek
+* spotykać                              – buluşmak
+* trzymać                               – tutmak
+* ciągnąć                               – çekmek
+* pchać                                 – itmek
+* uciekać                               – kaçmak
 
-* skakać                        – zıplamak
-* krzyczeć                     – bağırmak
-* szanować                  – saygı duymak
-* rysować                     – çizmek
-* wyjaśniać                  – açıklamak
-* zwiedzać                    – ziyaret etmek
-* podnosić                    – kaldırmak
-* opowiadać                 – anlatmak
-* przynosić                    – getirmek
-* pomagać                     – yardım etmek
+* skakać                                – zıplamak
+* krzyczeć                              – bağırmak
+* szanować                              – saygı duymak
+* rysować                               – çizmek
+* wyjaśniać                             – açıklamak
+* zwiedzać                              – ziyaret etmek
+* podnosić                              – kaldırmak
+* opowiadać                             – anlatmak
+* przynosić                             – getirmek
+* pomagać                               – yardım etmek
 
-* wąchać                              – koklamak
+* wąchać                                – koklamak
 * bawić                                 – eğlenmek
-* dziękować                   – teşekkür etmek
-* zmywać                       – bulaşık yıkamak
-* prasować                    – ütü yapmak
+* dziękować                             – teşekkür etmek
+* zmywać                                – bulaşık yıkamak
+* prasować                              – ütü yapmak
 * bać się                               – korkmak
-* spóźniać się                     – gecikmek
-* pozbyć się                         – kurtulmak
-* martwić się                      – endişelenmek
-* kołysać                             – sallamak
+* spóźniać się                          – gecikmek
+* pozbyć się                            – kurtulmak
+* martwić się                           – endişelenmek
+* kołysać                               – sallamak
 
-* podawać                  – vermek, vermek (cokkere)
-* wysyłać                    – göndermek
-* wstawać                  – kalkmak(cokkere)
-* śmiać się                 – gülmek
-* jeździć                      – sürmek, gitmek (araba)
-* tańczyć                    – dans etmek
-* tłumaczyć              – tercüme etmek, aciklamak
-* witać                        – selamlamak
-* brać udział              – katılmak
-* dotrzeć                     – ulaşmak
+* podawać                               – sunmak, vermek (cokkere)
+* wysyłać                               – göndermek
+* wstawać                               – kalkmak(cokkere)
+* śmiać się                             – gülmek
+* jeździć                               – sürmek, gitmek (araba)
+* tańczyć                               – dans etmek
+* tłumaczyć                             – tercüme etmek, aciklamak
+* witać                                 – selamlamak
+* brać udział                           – katılmak
+* dotrzeć                               – ulaşmak
 
-* słuchać                     – dinlemek
-* badać                        – araştırmak
-* czyścić                      – temizlemek
-* zbudować                 – inşa etmek
-* wchodzić                  – girmek,mer.cikmk
-* marzyć                      – hayal kurmak
-* spóźnić się               – geç kalmak
-* niszczyć              – yok etmek, tahrib etmek
-* szyć                            – dikmek
-* strzelać                      – ateş etmek
+* słuchać                               – dinlemek
+* badać                                 – araştırmak
+* czyścić                               – temizlemek
+* zbudować                              – inşa etmek
+* wchodzić                              – girmek,mer.cikmk
+* marzyć                                – hayal kurmak
+* spóźnić się                           – geç kalmak
+* niszczyć                              – yok etmek, tahrib etmek
+* szyć                                  – dikmek
+* strzelać                              – ateş etmek
 
-* wracać                     – geri dönmek
-* złościć się               – sinirlenmek
-* wspierać                  – desteklemek
-* obiecać                   – söz vermek
-* przepraszać           – özür dilemek
-* przegrywać            – kaybetmek
-* opuszczać             – terk etmek
-* chwalić                   – övmek
-* zgadzać się           – aynı fikirde olmak
-* próbować              – denemek
+* wracać                                – geri dönmek
+* złościć się                           – sinirlenmek
+* wspierać                              – desteklemek
+* obiecać                               – söz vermek
+* przepraszać                           – özür dilemek
+* przegrywać                            – kaybetmek
+* opuszczać                             – terk etmek
+* chwalić                               – övmek
+* zgadzać się                           – aynı fikirde olmak
+* próbować                              – denemek
 
-* woleć                         - tercih etmek
-* włączać                     - acmak, dahil etmek
-* wyłączać                    - kapamak, cikartmak
-* rozbierać                    – soymak
-* walczyć                      – savaşmak
-* bronić                          – savunmak
-* rzucać                          – atmak
-* działać                         – hareket etmek/geçmek
-* wyprowadzać              – götürmek
-* wprowadzać                – getirmek (içeri)
+* woleć                                 - tercih etmek
+* włączać                               - acmak, dahil etmek
+* wyłączać                              - kapamak, cikartmak
+* rozbierać                             – soymak
+* walczyć                               – savaşmak
+* bronić                                – savunmak
+* rzucać                                – atmak
+* działać                               – hareket etmek/geçmek
+** wyprowadzać                          – götürmek
+** wprowadzać                           – girmek (veri, cokkere), getirmek (içeri)
 
-* mieć                                   – sahip olmak
+* mieć                                  – sahip olmak
 * ugotować                              - yemek pisirmek
-* odmawiać                      – reddetmek
-* pozwalać                       – izin vermek
-* zabraniać                       – yasaklamak
-* kochać                            – sevmek
-* nienawidzić                    – nefret etmek
-* żałować                          – pişman olmak
-* cieszyć się                      – sevinmek
-* smucić się                       – üzülmek
+* odmawiać                              – reddetmek
+* pozwalać                              – izin vermek
+* bić                                   – dövmek
+* kochać                                – sevmek
+* nienawidzić                           – nefret etmek
+* żałować                               – pişman olmak
+* cieszyć się                           – sevinmek
+* smucić się                            – üzülmek
 
-* oferować                         – teklif etmek, sunmak
+* oferować                              – teklif etmek, sunmak
 * zjeść                                 – yemek yemek
-* przeczytać                       – okumak
-* złapać                               – yakalamak
-* piec                                     – fırında pişirmek
-* smażyć                              – kızartmak
-* kroić                                   – kesmek
-* usmażyć                            – kızartmak
-* gotować                             – kaynatmak
-* odebrać                              – almak
+* przeczytać                            – okumak
+* złapać                                – yakalamak
+* piec                                  – fırında pişirmek
+* smażyć                                – kızartmak
+* kroić                                 – kesmek
+* usmażyć                               – kızartmak
+* gotować                               – kaynatmak
+* odebrać                               – almak
 
 * wylać                                 – dökmek
 * wziąć                                 – almak
-* unieść                                – kaldırmak
-* wsadzić           – koymak, sokmk, kitaplia kitap..
-* wyjąć                                   – çıkarmak
+** unieść                               – kaldırmak
+* wsadzić                               – koymak, sokmk, kitaplia kitap..
+* wyjąć                                 – çıkarmak
 * wyrzucić                              – atmak
-* umyć                                    – yıkamak
-* złożyć                                   – katlamak
+* umyć                                  – yıkamak
+** złożyć                               – katlamak
 * wciągnąć                              – çekmek
-* wlać                                      – doldurmak
+* wlać                                  – doldurmak
 
-* składać                       – katlamak
-* wezwać                       – çağırmak (birkez)
-* odciąć                           – kesmek
-* włączyć                        – açmak (birkez)
-* wyłączyć                      – kapatmak (birkz)
-* przesuwać                   – hareket ettirmek
-* poruszać                      – hareket ettirmek
-* ułożyć                           – düzenlemek
-* podać                        – sunmak, vermek(birkz)
-* znaleźć                           - bulmak
+** składać                              – katlamak
+* wezwać                                – çağırmak (birkez)
+** odciąć                               – kesmek
+* włączyć                               – açmak (birkez)
+* wyłączyć                              – kapatmak (birkz)
+* przesuwać                             – hareket ettirmek
+* poruszać                              – hareket ettirmek
+** ułożyć                               – düzenlemek
+** podać                                – sunmak, vermek(birkz)
+* znaleźć                               - bulmak
 
-* narzekać                 – şikayet etmek (soylenmek)
+* narzekać                              – şikayet etmek (soylenmek)
 * okazać                                – göstermek
-* zorganizować                   – düzenlemek
-* pobierać                           – indirmek
-* rozważać                           – düşünmek
-* ulepszać                           – iyileştirmek
-* odkrywać                           – keşfetmek(cokkere)
-* znieść                                 – katlanmak
+* zorganizować                          – planlamak, düzenlemek
+* pobierać                              – indirmek
+* rozważać                              – düşünmek
+* ulepszać                              – iyileştirmek
+* odkrywać                              – keşfetmek(cokkere)
+** znieść                               – katlanmak
 * chronić                               – korumak, savunmak
-* zarządzać                         – idare etmek, yontmk
+*** zarządzać                           – idare etmek, yontmk
 
 * zaniedbywać                  – ihmal etmek
 * ukrywać                           – saklamak
@@ -319,7 +326,7 @@
 * porozmawiać                               - konusmak
 * zdobywać                              – kaznmk, elde etmk (birck)
 * zrozumieć                             - anlamak
-* odkładać                           – ertelemek
+** odkładać                           – ertelemek
 * zabrać                                – götürmek
 * zdobyć                      – kaznmk, elde etmk(birkz)
 * odzyskać                           – geri almak
@@ -340,7 +347,7 @@
 * czytać                                - okumak
 * wybierać                              - secmek
 * wyjść                                 - cimak
-* przynieść                             - getirmek
+** przynieść                            - getirmek
 * sprawdzić                             - kontrol etmek
 * napisać                               - yazmak
 * przetłumaczyć                         - tercume etmk
@@ -376,7 +383,7 @@
 * nauczyć                               - ogretmek
 * łamać                                 - kirmak
 * mieszkać                              - dairede oturmak
-* zostać                                - kalmak
+** zostać                               - kalmak
 * świętować                             - kutlamak
 * brać                                  – almak
 * chodzić                               – yürümek
