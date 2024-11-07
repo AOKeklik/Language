@@ -17,7 +17,7 @@
 * znajdować                             - bulmak
 * znajdować się                         - bulunmak
 ** pozostawiać                          - birakmak
-* postanowić                            - karar vermek
+** postanowić                           - karar vermek
 * poszerzyć                             - genisletmek
 * tracić                                – kaybetmek
 
@@ -114,7 +114,7 @@
 * zaangażować                           - dahil etmek
 * wyjaśnić                              - aciklamak
 * śnić                                  - ruya gormek
-* zastanowić się                        - dusunmek
+** zastanowić się                       - dusunmek
 * wstydzić się                          - utanmak
 * kopać                                 – kazmak
 * pożyczyć                              - odunc almak, borc almak
