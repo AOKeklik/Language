@@ -16,7 +16,6 @@
 * wasza                                 – sizin (kadın cinsiyet)
 * wasze                                 – sizin (nötr veya çoğul nesneler)
 
-
 * nigdy                                 – asla, hiçbir zaman
 * stale                                 – sürekli
 * zawsze                                – her zaman
@@ -111,6 +110,7 @@ dlatego – bu yüzden
 
 prawdziwie – gerçekten
 naprawdę – gerçekten
+* Akurat                                - tam olarak, dogru bir sekilde
 zupełnie – tamamen
 całkowicie – tamamen
 częściowo – kısmen

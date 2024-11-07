@@ -118,7 +118,6 @@
 
 * wdzięczna                 - minnettar
 * Więc                      - bu nedenle
-* Akurat                    - tam olarak, dogru bir sekilde
 * Pozostać                  - kalmak
 * poprzedni                 - onceki
 * Zastosowany               - uygulanan, uygulamaya konan
